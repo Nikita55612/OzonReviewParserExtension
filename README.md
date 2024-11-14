@@ -12,7 +12,7 @@
 - Распаковываем архив
 - Переходим [chrome://extensions/](chrome://extensions/)
 - Включаем режим разработчика
-- Загружаем расширение <youPath>/OzonReviewParserExtension/src
+- Загружаем расширение .../OzonReviewParserExtension/src
 
 ![extensions](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot3.png)
 
