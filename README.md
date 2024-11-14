@@ -8,9 +8,11 @@
 
 ## Установка
 
+- Скачиваем репозиторий
+- Распаковываем архив
 - Переходим [chrome://extensions/](chrome://extensions/)
 - Включаем режим разработчика
-- Загружаем расширение OzonReviewParserExtension/src
+- Загружаем расширение <youPath>/OzonReviewParserExtension/src
 
 ![extensions](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot3.png)
 
