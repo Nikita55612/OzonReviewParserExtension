@@ -6,9 +6,7 @@
 
 ![OzonReviewParserExtension](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot1.png)
 
-<p align="center" width="100%">
-    <img width="33%" src="https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/src/icons/icon128.png">
-</p>
+<div style="text-align:center"><img src="https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/src/icons/icon128.png" /></div>
 
 
 
