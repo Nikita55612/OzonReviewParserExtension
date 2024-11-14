@@ -23,3 +23,15 @@ function showError(message) {
       errorDiv.style.display = 'none';
   }, 3000);
 }
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Enter") {
+    const itemId = document.getElementById("item_id").value;
+    if (!itemId) {
+        showError('Введите ID товара');
+        return;
+    }
+    const url = `https://www.ozon.ru/api/entrypoint-api.bx/page/json/v2?url=/product/${itemId}/reviews/?page=1&sort=published_at_desc`;
+    chrome.tabs.create({ url });
+  }
+});

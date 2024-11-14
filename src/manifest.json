@@ -33,7 +33,7 @@
   },
   "content_scripts": [
       {
-          "matches": ["https://*.ozon.ru/*"],
+          "matches": ["https://*.ozon.ru/*", "https://www.ozon.ru/product/*"],
           "js": ["content.js"],
           "run_at": "document_end"
       }
