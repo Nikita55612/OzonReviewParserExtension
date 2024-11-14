@@ -6,7 +6,7 @@
 
 ![OzonReviewParserExtension](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot1.png)
 
-![logo](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot1.png)
+![logo](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/src/icons/icon128.png)
 
 
 
