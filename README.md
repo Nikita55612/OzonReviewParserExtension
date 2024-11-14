@@ -8,7 +8,7 @@
 
 ## Установка
 
-- Переходим [chrome://extensions/](https://chrome://extensions/)
+- Переходим [chrome://extensions/](http://chrome://extensions/)
 - Включаем режим разработчика
 - Загружаем расширение
 
