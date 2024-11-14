@@ -4,4 +4,4 @@
 
 ![OzonReviewParserExtension](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/Screenshot1.png)
 
-![popup](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/Screenshot1.png)
+![popup](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/Screenshot2.png)
