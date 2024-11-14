@@ -8,6 +8,11 @@
 
 ## Установка
 
+- Переходим chrome://extensions/
+- Включаем режим разработчика
+- Загружаем расширение
+
+![extensions](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot3.png)
 
 
 <p align="center">
