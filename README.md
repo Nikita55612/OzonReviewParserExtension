@@ -4,6 +4,8 @@
 
 ![popup](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot2.png)
 
+![page](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot4.png)
+
 ![OzonReviewParserExtension](https://github.com/Nikita55612/OzonReviewParserExtension/blob/main/screenshots/Screenshot1.png)
 
 ## Установка
